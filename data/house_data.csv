@@ -1,0 +1,15 @@
+area,bedrooms,bathrooms,location,price
+1200,2,2,Chennai,6000000
+1500,3,2,Chennai,8000000
+800,1,1,Madurai,3000000
+1800,3,3,Bangalore,12000000
+2100,4,3,Bangalore,15000000
+950,2,1,Madurai,3500000
+2000,3,2,Chennai,10000000
+1700,3,2,Bangalore,11000000
+1300,2,2,Madurai,4000000
+1600,3,2,Chennai,9000000
+1400,2,2,Bangalore,9500000
+1100,2,1,Madurai,3200000
+1900,4,3,Chennai,13000000
+2200,4,4,Bangalore,16000000
